@@ -38,7 +38,6 @@ A free online tool to instantly create and display **big, giant-sized text** wit
 
 - [Fancy Fonts Generator](https://fancy-fonts.netstudy.in/) – Stylish Unicode text styles
 - [Bangla Date Today](https://bangladate.netstudy.in/) – Live Bangla calendar tool
-- And more free web utilities at [netstudy.in](https://netstudy.in/)
 
 ## Tech Stack (for developers)
 
